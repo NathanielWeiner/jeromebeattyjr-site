@@ -18,7 +18,7 @@ export default function Home() {
 
           <p className="mt-4 max-w-3xl text-lg leading-8 text-zinc-700">
             He’s best known for the <span className="font-medium">Matthew &amp; Maria Looney</span> books and the
-            <span className="font-medium"> Sofa Pop</span> titles. This site is a small, growing tribute to his life and work.
+            <span className="font-medium"> Matt Fulton: A Soda Pop Adventure</span> (and other titles). This site is a small, growing tribute to his life and work.
           </p>
 
           <div className="mt-8 flex flex-wrap gap-3">
@@ -46,7 +46,7 @@ export default function Home() {
             <div className="prose prose-zinc mt-5 max-w-none">
               <p>
                 The Looney twins’ adventures have that rare mix: big ideas, clean sentences, and a warm belief that
-                curiosity is a virtue. The Sofa Pop books carry a similar spirit — playful, readable, and oddly timeless.
+                curiosity is a virtue. His Matt Fulton: A Soda Pop Adventure carry a similar spirit — playful, readable, and oddly timeless.
               </p>
               <p>
                 We’re building a simple, editorial archive: titles, publication details, and (when available) scans and
@@ -73,7 +73,7 @@ export default function Home() {
                 </div>
                 <div className="col-span-2">
                   <dt className="text-zinc-500">Known for</dt>
-                  <dd className="font-medium">Matthew &amp; Maria Looney • Sofa Pop</dd>
+                  <dd className="font-medium">Matthew &amp; Maria Looney • Matt Fulton: A Soda Pop Adventure</dd>
                 </div>
               </dl>
             </div>
@@ -101,7 +101,7 @@ export default function Home() {
               </div>
             </div>
             <div className="rounded-xl border border-black/10 bg-white p-5">
-              <div className="text-sm font-medium">Sofa Pop</div>
+              <div className="text-sm font-medium">Matt Fulton: A Soda Pop Adventure</div>
               <div className="mt-2 text-sm text-zinc-600">
                 A companion set of books: playful, readable, and full of charm.
               </div>
