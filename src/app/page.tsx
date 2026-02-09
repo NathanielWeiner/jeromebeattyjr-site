@@ -168,7 +168,7 @@ export default function Home() {
               sent on assignment to write features for Collier&apos;s, Esquire, The
               American Magazine, and The Atlantic. He profiled Rita Hayworth at
               the height of her fame. He wrote a piece for Esquire called
-              "Hanging Up on Hemingway" about the night Ernest called and talked
+              &quot;Hanging Up on Hemingway&quot; about the night Ernest called and talked
               so long that nobody could remember when the conversation started.
               He covered the South Pole, pipe smokers, and the White House.
             </p>
