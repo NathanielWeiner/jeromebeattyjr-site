@@ -227,19 +227,43 @@ export default function Home() {
         <footer className="mt-16 border-t border-black/10 pt-8 text-xs text-zinc-600">
           <p>© 2026 The Estate of Jerome Beatty Jr.</p>
           <p className="mt-2 flex flex-wrap gap-2">
-            <a className="underline" href="#" aria-label="Wikipedia">
+            <a
+              className="underline"
+              href="https://en.wikipedia.org/wiki/Jerome_Beatty_Jr."
+              aria-label="Wikipedia"
+              target="_blank"
+              rel="noreferrer"
+            >
               Wikipedia
             </a>
             <span>·</span>
-            <a className="underline" href="#" aria-label="ISFDB">
+            <a
+              className="underline"
+              href="https://www.isfdb.org/cgi-bin/ea.cgi?Jerome_Beatty"
+              aria-label="ISFDB"
+              target="_blank"
+              rel="noreferrer"
+            >
               ISFDB
             </a>
             <span>·</span>
-            <a className="underline" href="#" aria-label="Library of Congress">
+            <a
+              className="underline"
+              href="https://id.loc.gov/authorities/names/n50044993.html"
+              aria-label="Library of Congress"
+              target="_blank"
+              rel="noreferrer"
+            >
               Library of Congress
             </a>
             <span>·</span>
-            <a className="underline" href="#" aria-label="Goodreads">
+            <a
+              className="underline"
+              href="https://www.goodreads.com/search?q=Jerome+Beatty+Jr"
+              aria-label="Goodreads"
+              target="_blank"
+              rel="noreferrer"
+            >
               Goodreads
             </a>
           </p>
